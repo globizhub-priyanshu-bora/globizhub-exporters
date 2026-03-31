@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 const products = [
   { name: "CitiFab Leather", desc: "Premium crafted leather goods.", count: "50+ Products", img: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=800&auto=format&fit=crop" },
   { name: "E&M Garments", desc: "High-quality apparel manufacturing.", count: "10+ Lines", img: "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xvdGhzfGVufDB8fDB8fHww" },
-  { name: "Premium Tea & Coffee", desc: "Sourced from reputable plantations.", count: "Bulk Exports", img: "https://images.unsplash.com/photo-1594489428504-5c0c480a15fd?q=80&w=800&auto=format&fit=crop" },
+  { name: "Premium Tea & Coffee", desc: "Sourced from reputable plantations.", count: "Bulk Exports", img: "https://plus.unsplash.com/premium_photo-1675435644687-562e8042b9db?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29mZmVlfGVufDB8fDB8fHww" },
   { name: "Industrial Tools", desc: "Durable tools for heavy industry.", count: "20+ Categories", img: "https://images.unsplash.com/photo-1586864387967-d02ef85d93e8?q=80&w=800&auto=format&fit=crop" },
 ];
 
