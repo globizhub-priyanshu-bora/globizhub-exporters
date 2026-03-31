@@ -40,10 +40,6 @@ export default function LandingPage() {
 
         <div className="relative z-10 w-full max-w-7xl mx-auto px-6 lg:px-12 mt-12 md:mt-0">
           <div className="max-w-3xl">
-            <div className="flex items-center gap-2 text-blue-400 font-semibold tracking-wider uppercase text-sm mb-6">
-              <Anchor size={18} />
-              <span>GlobizHub Exporters</span>
-            </div>
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight mb-6 text-white">
               Connecting Local Quality to Global Markets.
             </h1>
@@ -63,7 +59,7 @@ export default function LandingPage() {
       </section>
 
       {/* STATS / TRUST BAR */}
-      <section className="bg-blue-600 py-12 px-6 lg:px-12">
+      <section className="bg-blue-600 py-8 px-6 lg:px-12">
         <div className="max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 md:divide-x md:divide-y-0 divide-y divide-blue-500/50">
           <div className="text-center px-4 pt-4 md:pt-0">
             <h3 className="text-3xl md:text-4xl font-bold text-white mb-2">50+</h3>
